@@ -1,4 +1,4 @@
-# rewrite-fidelity-repair
+# fidelity-repair
 
 A [Claude Code / Hermes](https://claude-code.nousresearch.com/docs) skill that repairs a **rewritten** version of a text so it says exactly what the **original** says, while keeping the rewrite's own wording as close to verbatim as possible.
 
